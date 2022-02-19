@@ -1,0 +1,15 @@
+UPDATE attribute_description SET `name` = 'Вага грам'                  WHERE `language_id` = '2' AND `attribute_id` = '1';
+UPDATE attribute_description SET `name` = 'Димність'                   WHERE `language_id` = '2' AND `attribute_id` = '4';
+UPDATE attribute_description SET `name` = 'Жаростійкість'              WHERE `language_id` = '2' AND `attribute_id` = '5';
+UPDATE attribute_description SET `name` = 'Фортеця'                    WHERE `language_id` = '2' AND `attribute_id` = '6';
+UPDATE attribute_description SET `name` = 'Кіслость'                   WHERE `language_id` = '2' AND `attribute_id` = '7';
+UPDATE attribute_description SET `name` = 'Пряність'                   WHERE `language_id` = '2' AND `attribute_id` = '8';
+UPDATE attribute_description SET `name` = 'Свіжість'                   WHERE `language_id` = '2' AND `attribute_id` = '9';
+UPDATE attribute_description SET `name` = 'Солодкість'                 WHERE `language_id` = '2' AND `attribute_id` = '10';
+UPDATE attribute_description SET `name` = 'Висота'                     WHERE `language_id` = '2' AND `attribute_id` = '11';
+UPDATE attribute_description SET `name` = 'Діаметр шахти'              WHERE `language_id` = '2' AND `attribute_id` = '12';
+UPDATE attribute_description SET `name` = 'Дифузор'                    WHERE `language_id` = '2' AND `attribute_id` = '13';
+UPDATE attribute_description SET `name` = 'Кількість портів під шланг' WHERE `language_id` = '2' AND `attribute_id` = '14';
+UPDATE attribute_description SET `name` = 'Матеріал шахти'             WHERE `language_id` = '2' AND `attribute_id` = '15';
+UPDATE attribute_description SET `name` = 'Тип з\'єднання'             WHERE `language_id` = '2' AND `attribute_id` = '16';
+UPDATE attribute_description SET `name` = 'Смак'                       WHERE `language_id` = '2' AND `attribute_id` = '17';

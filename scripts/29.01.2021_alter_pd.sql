@@ -1,0 +1,1 @@
+ALTER TABLE product_description ADD COLUMN `title` VARCHAR(255) NULL;
